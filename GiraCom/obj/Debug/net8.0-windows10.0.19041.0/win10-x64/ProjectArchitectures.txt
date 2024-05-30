@@ -1,0 +1,1 @@
+C:\Users\elian\source\repos\GiraCom\GiraCom.csproj;x64

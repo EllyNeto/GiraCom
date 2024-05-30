@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GiraCom.NewPage2"
+             Title="Home">
+    <VerticalStackLayout>
+        <Grid     Padding="90">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <StackLayout>
+            <Label 
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+            <Label Text="Informações do Perfil"
+                   FontSize="Medium"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand" />
+  
+             <Label 
+                   Text=""
+                   FontSize="Small"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand">
+
+              </Label>
+             </StackLayout>
+            <StackLayout Grid.Row="1" Grid.Column="8" VerticalOptions="End" Spacing="10">
+                <Button Text="Perfil"
+                    CommandParameter="1"
+                    HorizontalOptions="Center"
+                    VerticalOptions="End" />
+                <Button Text="events"
+                    CommandParameter="2"
+                    HorizontalOptions="Center"
+                    VerticalOptions="End" />
+                <Button Text="News"
+                    CommandParameter="3"
+                    HorizontalOptions="Center"
+                    VerticalOptions="End" />
+            </StackLayout>
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>
