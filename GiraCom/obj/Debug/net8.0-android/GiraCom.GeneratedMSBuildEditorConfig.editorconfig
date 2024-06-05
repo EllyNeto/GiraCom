@@ -17,53 +17,53 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GiraCom
-build_property.ProjectDir = C:\Users\elian\source\repos\GiraCom\
+build_property.ProjectDir = C:\Users\elian\Documents\GiraCom\GiraCom\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/elian/source/repos/GiraCom/App.xaml]
+[C:/Users/elian/Documents/GiraCom/GiraCom/App.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GiraCom.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/elian/source/repos/GiraCom/AppShell.xaml]
+[C:/Users/elian/Documents/GiraCom/GiraCom/AppShell.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GiraCom.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/elian/source/repos/GiraCom/MainPage.xaml]
+[C:/Users/elian/Documents/GiraCom/GiraCom/MainPage.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GiraCom.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/elian/source/repos/GiraCom/NewPage1.xaml]
+[C:/Users/elian/Documents/GiraCom/GiraCom/NewPage1.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GiraCom.NewPage1.xaml
 build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
 build_metadata.AdditionalFiles.RelativePath = NewPage1.xaml
 
-[C:/Users/elian/source/repos/GiraCom/NewPage2.xaml]
+[C:/Users/elian/Documents/GiraCom/GiraCom/NewPage2.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GiraCom.NewPage2.xaml
 build_metadata.AdditionalFiles.TargetPath = NewPage2.xaml
 build_metadata.AdditionalFiles.RelativePath = NewPage2.xaml
 
-[C:/Users/elian/source/repos/GiraCom/Resources/Styles/Colors.xaml]
+[C:/Users/elian/Documents/GiraCom/GiraCom/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GiraCom.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/elian/source/repos/GiraCom/Resources/Styles/Styles.xaml]
+[C:/Users/elian/Documents/GiraCom/GiraCom/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GiraCom.Resources.Styles.Styles.xaml

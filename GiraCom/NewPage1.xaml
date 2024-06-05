@@ -7,7 +7,7 @@
              Title="Criar conta">
     <VerticalStackLayout>
         <Grid
-     Padding="60" 
+     Padding="10,10,6,6" 
       RowSpacing="05"
       ColumnSpacing="05"
            RowDefinitions="*,*,*,*,*,*,*,*" 
@@ -34,10 +34,16 @@
               BackgroundColor="LightGreen">
             </Entry>
             <Entry
-              Placeholder="Número de telefone"
+              Placeholder="dd/mm/aa"
               Grid.Row="3" 
               Grid.Column="2"
               BackgroundColor="LightGreen">
+            </Entry>
+            <Entry
+               Placeholder="Número de telefone"
+               Grid.Row="5" 
+               Grid.Column="2"
+               BackgroundColor="LightGreen">
             </Entry>
             <Entry
               Placeholder="Senha"
@@ -47,9 +53,9 @@
             </Entry>
             <Button
               Grid.Column="4"
-              Grid.Row="8"
+              Grid.Row="10"
               WidthRequest="100"
-              HeightRequest="10"
+              HeightRequest="50"
               BackgroundColor="Green"
               Text="OK"
               TextColor="White"

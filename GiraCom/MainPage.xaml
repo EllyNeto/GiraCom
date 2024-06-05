@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             BackgroundColor="White"
+             BackgroundColor="WhiteSmoke"
              x:Class="GiraCom.MainPage"
                 Title="Login"
              Shell.NavBarIsVisible="False">
@@ -9,32 +9,32 @@
     <ScrollView>
         <VerticalStackLayout>
             <Grid
-               Padding="30" 
+               Padding="10,10,6,6"
                 RowSpacing="10"
-                ColumnSpacing="10">
-                 <Grid.RowDefinitions>
-                <RowDefinition Height="Auto"/>
-                <RowDefinition Height="Auto"/>
-                <RowDefinition Height="Auto"/>
-            </Grid.RowDefinitions>
-                  <Grid.ColumnDefinitions>
+                ColumnSpacing="10"
+                RowDefinitions="*,*,*,*,*,*,*">
+                <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
 
-                <Label Text="Usuário:" 
-                   Grid.Row="0" 
-                       TextColor="Green"
-                   Grid.Column="2"/>
+                <Image
+                    Source="C:\Users\elian\Downloads\_3a9040d3-4b03-4e60-80b6-da474ed5c38f.jpeg"
+                    WidthRequest="100"
+                    HeightRequest="102"
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    >
+                </Image>
                 <Entry
                    Placeholder="Email ou nome de usuario"
-                   Grid.Row="1" 
+                   Grid.Row="4" 
                    Grid.Column="1"
                 BackgroundColor="LightGreen">
             </Entry>
                 <Entry
                  Placeholder="Senha"
-                 Grid.Column ="2"
+                 Grid.Column ="3"
                  Grid.Row="5"
                  BackgroundColor="LightGreen">
                 </Entry>
@@ -61,7 +61,7 @@
                     </Label.GestureRecognizers>
                 </Label>
                 <Button
-                 Grid.Column="4"
+                 Grid.Column="3"
                  Grid.Row="1"
                  BackgroundColor="Green"
                  Text="Login"

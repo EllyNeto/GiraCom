@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrIPJyeUZpovXWc95DAh0J+iY5u4TYiApGt3BGF2KTqiUEze/3mCW4FoY0ODEmGf6LNFr6haTPJQmTVR3R/IVg==",
+  "dgSpecHash": "PurGaLRdbT5x7vl5yMvB67rT7dKiLwtczF9SzHcxUZpRfxIWfFsrgEcmvut0SCHfzioopZ6DSxIoSJ8MPsQpxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elian\\source\\repos\\GiraCom\\GiraCom.csproj",
+  "projectFilePath": "C:\\Users\\elian\\Documents\\GiraCom\\GiraCom\\GiraCom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elian\\.nuget\\packages\\avalonia\\11.0.10\\avalonia.11.0.10.nupkg.sha512",
     "C:\\Users\\elian\\.nuget\\packages\\avalonia.buildservices\\0.0.29\\avalonia.buildservices.0.0.29.nupkg.sha512",
