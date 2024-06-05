@@ -36916,11 +36916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elian\\source\\repos\\GiraCom\\GiraCom.csproj",
+      "projectUniqueName": "C:\\Users\\elian\\Documents\\GiraCom\\GiraCom\\GiraCom.csproj",
       "projectName": "GiraCom",
-      "projectPath": "C:\\Users\\elian\\source\\repos\\GiraCom\\GiraCom.csproj",
+      "projectPath": "C:\\Users\\elian\\Documents\\GiraCom\\GiraCom\\GiraCom.csproj",
       "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elian\\source\\repos\\GiraCom\\obj\\",
+      "outputPath": "C:\\Users\\elian\\Documents\\GiraCom\\GiraCom\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

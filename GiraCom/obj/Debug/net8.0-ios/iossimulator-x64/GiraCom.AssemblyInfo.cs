@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GiraCom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ecb72fe82d8afdab93cbaa5eed075899b8d7d1f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+53b8ed02f5d9a6e4dca8b31d58526e9b48d342f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GiraCom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GiraCom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
