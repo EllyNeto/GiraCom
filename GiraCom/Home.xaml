@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GiraCom.Home"
+             Title="Home">
+    <VerticalStackLayout>
+        <Grid     
+           Padding="90" 
+              RowSpacing="10"
+                
+               RowDefinitions="*,*,*,*,*,*,*,*"
+                  ColumnDefinitions="*,*,*,*,*">
+           
+                <Button Text="Perfil"
+                        Grid.Column="4"
+                        Grid.Row="2"
+                        WidthRequest="67"
+                        HeightRequest="67"
+                        Clicked="Perfil"
+                   />
+                <Button Text="events"
+                         Grid.Column="2"
+                         Grid.Row="2"
+                         WidthRequest="67"
+                         HeightRequest="67"
+                    />
+                <Button Text="News"
+                         Grid.Column="0"
+                         Grid.Row="2"
+                         WidthRequest="67"
+                         HeightRequest="67"/>
+           
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>
