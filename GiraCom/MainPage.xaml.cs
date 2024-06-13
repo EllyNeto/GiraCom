@@ -8,11 +8,11 @@
         }
         private async void OnLabelTapped(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new NewPage1());
+            await Navigation.PushAsync(new Cadastro());
         }
         private async void OnClick(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new NewPage2());
+            await Navigation.PushAsync(new Home());
         }
     }
 
