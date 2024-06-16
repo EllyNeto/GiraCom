@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\elian\Documents\GiraCom\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-05T17:29:41.935</Modified>
+      <Modified>2024-06-16T16:25:54.260</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-05T17:29:41.730</Modified>
+      <Modified>2024-06-16T16:25:53.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\GiraCom.runtimeconfig.json">
       <PackagePath>GiraCom.runtimeconfig.json</PackagePath>
-      <Modified>2024-05-31T00:41:10.727</Modified>
+      <Modified>2024-06-16T16:25:52.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\GiraCom.dll">
       <PackagePath>GiraCom.dll</PackagePath>
-      <Modified>2024-06-05T17:29:40.640</Modified>
+      <Modified>2024-06-16T16:25:48.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>GiraCom.exe</PackagePath>
-      <Modified>2024-06-05T17:29:40.662</Modified>
+      <Modified>2024-06-16T16:25:48.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -83,211 +83,215 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\app.ico">
       <PackagePath>app.ico</PackagePath>
-      <Modified>2024-06-05T17:24:21.145</Modified>
+      <Modified>2024-06-13T21:41:36.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-100.png">
       <PackagePath>appLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.945</Modified>
+      <Modified>2024-06-13T21:41:36.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-125.png">
       <PackagePath>appLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-06-05T17:24:25.020</Modified>
+      <Modified>2024-06-13T21:41:36.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-150.png">
       <PackagePath>appLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-06-05T17:24:25.118</Modified>
+      <Modified>2024-06-13T21:41:36.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-200.png">
       <PackagePath>appLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-06-05T17:24:25.288</Modified>
+      <Modified>2024-06-13T21:41:36.014</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-400.png">
       <PackagePath>appLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-06-05T17:24:25.616</Modified>
+      <Modified>2024-06-13T21:41:36.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-06-05T17:24:22.947</Modified>
+      <Modified>2024-06-13T21:41:36.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.092</Modified>
+      <Modified>2024-06-13T21:41:36.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.409</Modified>
+      <Modified>2024-06-13T21:41:36.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.268</Modified>
+      <Modified>2024-06-13T21:41:36.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.345</Modified>
+      <Modified>2024-06-13T21:41:36.027</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-06-05T17:24:22.300</Modified>
+      <Modified>2024-06-13T21:41:36.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-06-05T17:24:22.429</Modified>
+      <Modified>2024-06-13T21:41:36.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-06-05T17:24:22.878</Modified>
+      <Modified>2024-06-13T21:41:36.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-06-05T17:24:22.558</Modified>
+      <Modified>2024-06-13T21:41:36.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-06-05T17:24:22.779</Modified>
+      <Modified>2024-06-13T21:41:36.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-100.png">
       <PackagePath>appLogo.scale-100.png</PackagePath>
-      <Modified>2024-06-05T17:24:21.253</Modified>
+      <Modified>2024-06-13T21:41:36.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-125.png">
       <PackagePath>appLogo.scale-125.png</PackagePath>
-      <Modified>2024-06-05T17:24:21.334</Modified>
+      <Modified>2024-06-13T21:41:36.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-150.png">
       <PackagePath>appLogo.scale-150.png</PackagePath>
-      <Modified>2024-06-05T17:24:21.478</Modified>
+      <Modified>2024-06-13T21:41:36.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-200.png">
       <PackagePath>appLogo.scale-200.png</PackagePath>
-      <Modified>2024-06-05T17:24:21.582</Modified>
+      <Modified>2024-06-13T21:41:36.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-400.png">
       <PackagePath>appLogo.scale-400.png</PackagePath>
-      <Modified>2024-06-05T17:24:21.699</Modified>
+      <Modified>2024-06-13T21:41:36.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-16.png">
       <PackagePath>appLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-06-05T17:24:21.796</Modified>
+      <Modified>2024-06-13T21:41:36.046</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-24.png">
       <PackagePath>appLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-06-05T17:24:21.902</Modified>
+      <Modified>2024-06-13T21:41:36.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-256.png">
       <PackagePath>appLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-06-05T17:24:22.192</Modified>
+      <Modified>2024-06-13T21:41:36.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-32.png">
       <PackagePath>appLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-06-05T17:24:21.994</Modified>
+      <Modified>2024-06-13T21:41:36.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-48.png">
       <PackagePath>appLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-06-05T17:24:22.095</Modified>
+      <Modified>2024-06-13T21:41:36.056</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-100.png">
       <PackagePath>appMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.121</Modified>
+      <Modified>2024-06-13T21:41:36.058</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-125.png">
       <PackagePath>appMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.212</Modified>
+      <Modified>2024-06-13T21:41:36.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-150.png">
       <PackagePath>appMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.299</Modified>
+      <Modified>2024-06-13T21:41:36.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-200.png">
       <PackagePath>appMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.355</Modified>
+      <Modified>2024-06-13T21:41:36.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-400.png">
       <PackagePath>appMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.459</Modified>
+      <Modified>2024-06-13T21:41:36.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-100.png">
       <PackagePath>appSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.723</Modified>
+      <Modified>2024-06-13T21:41:36.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-125.png">
       <PackagePath>appSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.777</Modified>
+      <Modified>2024-06-13T21:41:36.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-150.png">
       <PackagePath>appSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.827</Modified>
+      <Modified>2024-06-13T21:41:36.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-200.png">
       <PackagePath>appSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.915</Modified>
+      <Modified>2024-06-13T21:41:36.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-400.png">
       <PackagePath>appSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.032</Modified>
+      <Modified>2024-06-13T21:41:36.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-100.png">
       <PackagePath>appStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.461</Modified>
+      <Modified>2024-06-13T21:41:36.079</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-125.png">
       <PackagePath>appStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.512</Modified>
+      <Modified>2024-06-13T21:41:36.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-150.png">
       <PackagePath>appStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.560</Modified>
+      <Modified>2024-06-13T21:41:36.082</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-200.png">
       <PackagePath>appStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.609</Modified>
+      <Modified>2024-06-13T21:41:36.085</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-400.png">
       <PackagePath>appStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-06-05T17:24:23.671</Modified>
+      <Modified>2024-06-13T21:41:36.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-100.png">
       <PackagePath>appWideTile.scale-100.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.517</Modified>
+      <Modified>2024-06-13T21:41:36.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-125.png">
       <PackagePath>appWideTile.scale-125.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.570</Modified>
+      <Modified>2024-06-13T21:41:36.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-150.png">
       <PackagePath>appWideTile.scale-150.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.631</Modified>
+      <Modified>2024-06-13T21:41:36.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-200.png">
       <PackagePath>appWideTile.scale-200.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.716</Modified>
+      <Modified>2024-06-13T21:41:36.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-400.png">
       <PackagePath>appWideTile.scale-400.png</PackagePath>
-      <Modified>2024-06-05T17:24:24.870</Modified>
+      <Modified>2024-06-13T21:41:36.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-06-05T17:29:26.660</Modified>
+      <Modified>2024-06-16T16:21:59.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-06-05T17:29:26.682</Modified>
+      <Modified>2024-06-16T16:21:59.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-06-05T17:29:26.710</Modified>
+      <Modified>2024-06-16T16:21:59.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-06-05T17:29:26.758</Modified>
+      <Modified>2024-06-16T16:21:59.302</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-06-05T17:29:26.915</Modified>
+      <Modified>2024-06-16T16:21:59.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginnn.scale-100.jpeg">
+      <PackagePath>loginnn.scale-100.jpeg</PackagePath>
+      <Modified>2024-06-05T14:50:46.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\GiraCom.deps.json">
       <PackagePath>GiraCom.deps.json</PackagePath>
-      <Modified>2024-06-05T17:29:41.535</Modified>
+      <Modified>2024-06-16T16:25:52.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
