@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\giracom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:giracom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\models\\giracomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\models\\infoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\models\\informaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|..\\api\\api.csproj|c:\\users\\hp\\desktop\\clone\\api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\perfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:perfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\cadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:cadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|c:\\users\\hp\\desktop\\clone\\giracom\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80012E99-31C2-4D85-9011-1C4FCA5C5CA6}|GiraCom.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\api\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\api\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T01:49:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\api\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\api\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T01:49:17.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\api\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Models\\Usuario.cs",
+              "RelativeToolTip": "..\\api\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:48:45.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfoView.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Models\\InfoView.cs",
+              "RelativeDocumentMoniker": "..\\api\\Models\\InfoView.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Models\\InfoView.cs",
+              "RelativeToolTip": "..\\api\\Models\\InfoView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:48:39.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Informaco.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Models\\Informaco.cs",
+              "RelativeDocumentMoniker": "..\\api\\Models\\Informaco.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Models\\Informaco.cs",
+              "RelativeToolTip": "..\\api\\Models\\Informaco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:48:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GiraComContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Models\\GiraComContext.cs",
+              "RelativeDocumentMoniker": "..\\api\\Models\\GiraComContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Models\\GiraComContext.cs",
+              "RelativeToolTip": "..\\api\\Models\\GiraComContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:48:13.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-16T19:25:55.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\api\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Program.cs",
+              "RelativeToolTip": "..\\api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:52:49.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\api\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\appsettings.json",
+              "RelativeToolTip": "..\\api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T17:53:04.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:11:03.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T17:29:49.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\Model\\User.cs",
+              "RelativeDocumentMoniker": "..\\api\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\Model\\User.cs",
+              "RelativeToolTip": "..\\api\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:29:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\api\\api.csproj",
+              "RelativeDocumentMoniker": "..\\api\\api.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\api\\api.csproj",
+              "RelativeToolTip": "..\\api\\api.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T17:18:45.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiraCom.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\GiraCom.csproj",
+              "RelativeDocumentMoniker": "GiraCom.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\GiraCom.csproj",
+              "RelativeToolTip": "GiraCom.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T22:42:15.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Perfil.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Perfil.xaml.cs",
+              "RelativeDocumentMoniker": "Perfil.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Perfil.xaml.cs",
+              "RelativeToolTip": "Perfil.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:42:15.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Perfil.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Perfil.xaml",
+              "RelativeDocumentMoniker": "Perfil.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Perfil.xaml",
+              "RelativeToolTip": "Perfil.xaml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAEwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T22:42:15.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:42:15.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cadastro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Cadastro.xaml.cs",
+              "RelativeDocumentMoniker": "Cadastro.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Cadastro.xaml.cs",
+              "RelativeToolTip": "Cadastro.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:42:15.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:42:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Home.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Home.xaml.cs",
+              "RelativeToolTip": "Home.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:42:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T22:42:15.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Cadastro.xaml",
+              "RelativeDocumentMoniker": "Cadastro.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Cadastro.xaml",
+              "RelativeToolTip": "Cadastro.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T22:42:15.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Home.xaml",
+              "RelativeDocumentMoniker": "Home.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\clone\\GiraCom\\Home.xaml",
+              "RelativeToolTip": "Home.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBlwCEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T22:42:15.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
