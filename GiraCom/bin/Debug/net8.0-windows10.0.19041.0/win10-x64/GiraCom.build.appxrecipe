@@ -214,7 +214,14 @@
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\GiraCom.deps.json">
+=======
+    <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginnn.scale-100.jpeg">
+      <PackagePath>loginnn.scale-100.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\GiraCom.deps.json">
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
       <PackagePath>GiraCom.deps.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">

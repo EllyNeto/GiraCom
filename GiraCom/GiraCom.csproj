@@ -57,6 +57,11 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\loginnn.jpeg" />
+	  <None Remove="Resources\Images\_3a9040d3-4b03-4e60-80b6-da474ed5c38f.jpeg" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Avalonia" Version="11.0.10" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />

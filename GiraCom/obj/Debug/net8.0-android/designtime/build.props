@@ -24,7 +24,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
+<<<<<<< HEAD
 _nugetassetstimestamp=638539189523487479
+=======
+_nugetassetstimestamp=638539152961312047
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
 typemapkind=strings-asm
 androidmanifestplaceholders=
 projectfullpath=c:\users\hp\desktop\clone\giracom\giracom.csproj

@@ -30,25 +30,45 @@
     <AppXManifest Include="C:\Users\hp\Desktop\clone\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:57:26.133</Modified>
+=======
+      <Modified>2024-06-16T16:25:54.260</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:29.957</Modified>
+=======
+      <Modified>2024-06-16T16:25:53.802</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\GiraCom.runtimeconfig.json">
       <PackagePath>GiraCom.runtimeconfig.json</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:29.479</Modified>
+=======
+      <Modified>2024-06-16T16:25:52.731</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\GiraCom.dll">
       <PackagePath>GiraCom.dll</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:28.202</Modified>
+=======
+      <Modified>2024-06-16T16:25:48.022</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>GiraCom.exe</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:28.261</Modified>
+=======
+      <Modified>2024-06-16T16:25:48.422</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -84,211 +104,423 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\app.ico">
       <PackagePath>app.ico</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.630</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.003</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-100.png">
       <PackagePath>appLargeTile.scale-100.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.578</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.005</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-125.png">
       <PackagePath>appLargeTile.scale-125.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.577</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.008</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-150.png">
       <PackagePath>appLargeTile.scale-150.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.577</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.011</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-200.png">
       <PackagePath>appLargeTile.scale-200.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.577</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.014</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLargeTile.scale-400.png">
       <PackagePath>appLargeTile.scale-400.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.577</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.018</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.625</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.019</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.624</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.021</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.610</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.023</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.623</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.026</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.622</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.027</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appLogo.altform-unplated_targetsize-16.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.626</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.029</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appLogo.altform-unplated_targetsize-24.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.625</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.030</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appLogo.altform-unplated_targetsize-256.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.625</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.032</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appLogo.altform-unplated_targetsize-32.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.625</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.034</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appLogo.altform-unplated_targetsize-48.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.625</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.036</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-100.png">
       <PackagePath>appLogo.scale-100.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.629</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.037</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-125.png">
       <PackagePath>appLogo.scale-125.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.629</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.038</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-150.png">
       <PackagePath>appLogo.scale-150.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.629</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.040</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-200.png">
       <PackagePath>appLogo.scale-200.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.629</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.042</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.scale-400.png">
       <PackagePath>appLogo.scale-400.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.629</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.044</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-16.png">
       <PackagePath>appLogo.targetsize-16.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.628</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.046</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-24.png">
       <PackagePath>appLogo.targetsize-24.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.628</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.050</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-256.png">
       <PackagePath>appLogo.targetsize-256.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.627</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.052</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-32.png">
       <PackagePath>appLogo.targetsize-32.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.627</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.054</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appLogo.targetsize-48.png">
       <PackagePath>appLogo.targetsize-48.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.627</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.056</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-100.png">
       <PackagePath>appMediumTile.scale-100.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.607</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.058</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-125.png">
       <PackagePath>appMediumTile.scale-125.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.607</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.060</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-150.png">
       <PackagePath>appMediumTile.scale-150.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.607</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.062</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-200.png">
       <PackagePath>appMediumTile.scale-200.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.606</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.064</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appMediumTile.scale-400.png">
       <PackagePath>appMediumTile.scale-400.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.606</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.067</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-100.png">
       <PackagePath>appSmallTile.scale-100.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.608</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.069</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-125.png">
       <PackagePath>appSmallTile.scale-125.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.608</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.071</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-150.png">
       <PackagePath>appSmallTile.scale-150.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.608</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.073</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-200.png">
       <PackagePath>appSmallTile.scale-200.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.607</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.075</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appSmallTile.scale-400.png">
       <PackagePath>appSmallTile.scale-400.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.607</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.078</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-100.png">
       <PackagePath>appStoreLogo.scale-100.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.610</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.079</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-125.png">
       <PackagePath>appStoreLogo.scale-125.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.609</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.081</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-150.png">
       <PackagePath>appStoreLogo.scale-150.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.609</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.082</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-200.png">
       <PackagePath>appStoreLogo.scale-200.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.609</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.085</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appStoreLogo.scale-400.png">
       <PackagePath>appStoreLogo.scale-400.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.608</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.087</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-100.png">
       <PackagePath>appWideTile.scale-100.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.606</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.090</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-125.png">
       <PackagePath>appWideTile.scale-125.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.606</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.092</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-150.png">
       <PackagePath>appWideTile.scale-150.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.605</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.095</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-200.png">
       <PackagePath>appWideTile.scale-200.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.590</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.098</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appWideTile.scale-400.png">
       <PackagePath>appWideTile.scale-400.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.590</Modified>
+=======
+      <Modified>2024-06-13T21:41:36.100</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.577</Modified>
+=======
+      <Modified>2024-06-16T16:21:59.221</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.576</Modified>
+=======
+      <Modified>2024-06-16T16:21:59.246</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.576</Modified>
+=======
+      <Modified>2024-06-16T16:21:59.270</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.576</Modified>
+=======
+      <Modified>2024-06-16T16:21:59.302</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:21.575</Modified>
+=======
+      <Modified>2024-06-16T16:21:59.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\GiraCom\GiraCom\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginnn.scale-100.jpeg">
+      <PackagePath>loginnn.scale-100.jpeg</PackagePath>
+      <Modified>2024-06-05T14:50:46.946</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\clone\GiraCom\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\GiraCom.deps.json">
       <PackagePath>GiraCom.deps.json</PackagePath>
+<<<<<<< HEAD
       <Modified>2024-06-16T19:30:29.474</Modified>
+=======
+      <Modified>2024-06-16T16:25:52.382</Modified>
+>>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
