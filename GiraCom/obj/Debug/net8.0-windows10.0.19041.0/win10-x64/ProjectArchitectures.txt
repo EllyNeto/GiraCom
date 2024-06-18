@@ -1,1 +1,1 @@
-C:\Users\elian\Documents\GiraCom\GiraCom\GiraCom.csproj;x64
+C:\Users\hp\Desktop\clone\GiraCom\GiraCom.csproj;x64
