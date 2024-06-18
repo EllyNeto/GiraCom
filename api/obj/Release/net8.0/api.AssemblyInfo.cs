@@ -14,15 +14,9 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD:api/obj/Release/net8.0/api.AssemblyInfo.cs
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0438295db75b024e2877bd9263b632d0fb9a58b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+623755c821dd35055e896bdf4ceada05f961046c")]
 [assembly: System.Reflection.AssemblyProductAttribute("api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e4e22426da1dbf9b562a5ac3f1b89bdb3b8b5e2")]
-[assembly: System.Reflection.AssemblyProductAttribute("Backend")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Backend")]
->>>>>>> 774886d4ae1c4d6a5e0fb655cf84c82c46333b83:Backend/obj/Release/net8.0/Backend.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
